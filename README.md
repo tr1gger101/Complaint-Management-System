@@ -4,6 +4,9 @@ Online Complaint Management is a management technique for assessing, analyzing a
 
 
 TECHNOLOGIES USED
+
 Frontend  : HTML, CSS,  JavaScript, PHP
+
 Backend : PHP, MySQL
+
 Server : XAMPP  local host.
